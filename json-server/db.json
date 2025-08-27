@@ -1,0 +1,16 @@
+{
+  "students": [
+    {
+      "id": 12402665,
+      "name": "Indy",
+      "email": "indy.iri@student.pxl.be",
+      "age": 27
+    },
+    {
+      "id": 12402666,
+      "name": "Tabitha",
+      "email": "tabitha.steffens@student.pxl.be",
+      "age": 25
+    }
+  ]
+}

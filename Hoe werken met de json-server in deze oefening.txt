@@ -1,0 +1,6 @@
+Elke keer als ik dit project opnieuw open moet ik de volgende stappen uitvoeren:
+
+1) open de terminal voor de map 'json-server'
+2) typ in de terminal het volgende: json-server --watch db.json
+
+Nu kan de js file aan de data die in de db.json file staat
